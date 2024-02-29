@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **front end**
 
-- 🌱 I’m currently learning **c,c++,html, css, javascript, react**
+- 🌱 I’m currently learning **c,c++,html, css, javascript, java
 
 - 📫 How to reach me **timilsinamanish3@gmail.com**
 
